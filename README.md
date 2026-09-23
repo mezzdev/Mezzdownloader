@@ -22,7 +22,7 @@ Une fois que le projet sera installé, il faudra ouvrir un terminal ( cmd de pr�
 python -m pip install yt-dlp colorama
 ```
 
-Puis vous allez télécharger le fichier MezzDownloader.py et vous allez dans le terminal ( toujours cmd ) aller dans l'endroit où se trouve le fichier MezzDownloader.py et taper la commande suivante :
+Puis vous allez télécharger le fichier Mezzdownloader.py et vous allez dans le terminal ( toujours cmd ) aller dans l'endroit où se trouve le fichier Mezzdownloader.py et taper la commande suivante :
 
 ```bash
 python Mezzdownloader.py
